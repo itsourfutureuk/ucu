@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ucu", {data:[{}],fetch:[],mutations:[]});

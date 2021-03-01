@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/nusu", {data:[{}],fetch:[],mutations:[]});
